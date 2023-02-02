@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AyomideKayode/Stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/AyomideKayode/Stats-preview-card-component-main)
+- Live Site URL:(https://magical-cuchufli-4fe054.netlify.app/)
 
 ### Built with
 
